@@ -1,0 +1,8 @@
+<li class="nav-item dropdown" style="list-style: none;margin-left: _marginleftpx;margin-right: _marginrightpx;margin-top: _margintoppx;margin-bottom: _marginbottompx;margin: __marginpx;padding: __paddingpx;padding-left: _paddingleftpx;padding-right: _paddingrightpx;padding-top: _paddingtoppx;padding-bottom: _paddingbottompx;position: _position;top: _toppx;bottom: _bottompx;left: _leftpx;right: _rightpx">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: _color;font-size: _fontsizepx">_dropdownlink
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+_dropdownitems
+</div>
+</li>
+

@@ -1,0 +1,3 @@
+<nav class="navbar navbar-expand-lg" style="background-color: _background;background-image: url(./img/_backgroundimage);background-size: cover;" >
+	_navitems
+</nav>

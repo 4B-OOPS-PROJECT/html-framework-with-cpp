@@ -1,0 +1,3 @@
+<form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="_placeholder" aria-label="Search" style="width: _widthpx;margin-left: _marginleftpx;margin-top: _margintoppx;margin-bottom: _marginpx;margin: __marginpx;position: _position;left: _leftpx;right: _rightpx;top: _toppx;bottom: _bottompx;padding: __paddingpx;padding-top: _paddingtoppx;padding-bottom: _paddingbottompx;padding-left: _paddingleftpx;padding-right: _paddingrightpx">
+</form>

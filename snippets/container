@@ -1,0 +1,3 @@
+<div class="container" style="position: _position;top: _toppx;left: _leftpx;right: _rightpx;bottom: _bottompx;background-color: _backgroundcolor;background-image: url(./img/_backgroundimage);width: _widthpx;height: _heightpx;padding: __paddingpx;margin: __marginpx;padding-top: _paddingtoppx;padding-bottom: _paddingbottompx;padding-left: _paddingleftpx;padding-right: _paddingrightpx;margin-top: _margintoppx;margin-bottom: _marginbottompx;margin-left: _marginleftpx;margin-right: _marginrightpx">
+		_content
+	</div>
